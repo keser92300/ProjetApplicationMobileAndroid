@@ -1,4 +1,4 @@
-Projet Application Mobile Android
+Projet Application Mobile Android "Convertisseur De Devises"
 
 Durée : 5 jours.
 
