@@ -1,9 +1,5 @@
 Projet Application Mobile Android "Convertisseur De Devises"
 
-Durée : 5 jours.
-
-Projet seul.
-
 Télécharger le ZIP, en allant sur "Donwload ZIP", dézipper le fichier.
 
 Ouvrir le dossier racine, sur Android Studio.
